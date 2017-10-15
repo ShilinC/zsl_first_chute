@@ -1,0 +1,12 @@
+command: node index.js
+config:
+  web:
+    port: 3000
+description: test_chute
+name: zsl_first_chute
+source:
+  type: git
+  url: https://github.com/ShilinC/zsl_first_chute
+type: light
+use: node
+version: 1
